@@ -5,3 +5,5 @@ encoding=UTF-8
 [compiler]
 source=source
 suppresswarning=ceylonNamespace
+source=build-source
+resource=resource
